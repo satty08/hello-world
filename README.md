@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+I am Satyam Bhardwaj
+Just starting my first project on Git
